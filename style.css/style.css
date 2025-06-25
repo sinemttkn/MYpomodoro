@@ -1,0 +1,22 @@
+body {
+  background-color: #ffeef5;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  color: #ff69b4;
+}
+
+#timer {
+  font-size: 5em;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffb6c1;
+  margin: 10px;
+  cursor: pointer;
+}
